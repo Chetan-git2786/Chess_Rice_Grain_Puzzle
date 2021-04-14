@@ -1,4 +1,5 @@
-## Chess-Rice Grain Puzzle :
+
+## Chess-Rice Grain Puzzle:
 Total No. of Grains on a Chess Board        
           
 ![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_1.jpg?raw=true)
@@ -6,7 +7,6 @@ Total No. of Grains on a Chess Board
 ####  Instance of the Puzzle :
 *There was once a king in India who was a big chess enthusiast and had the habit of challenging wise visitors to a game of chess. One day a traveling sage was challenged by the king. 
 ![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_2.jpg?raw=true)
-
 The sage having played this game all his life all the time with people all over the world gladly accepted the Kings challenge. To motivate his opponent the king offered any reward that the sage could name. The sage modestly asked just for a few grains of rice in the following manner: the king was to put a single grain of rice on the first chess square and double it on every consequent one. 
 
 The king accepted the sage’s request. Having lost the game and being a man of his word the king ordered a bag of rice to be brought to the chessboard.
