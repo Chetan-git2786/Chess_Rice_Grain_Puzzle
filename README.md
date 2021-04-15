@@ -4,10 +4,10 @@ Total No. of Grains on a Chess Board
        
 ####  Instance of the Puzzle :
 
-![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_11.jpg?raw=true)
-
 
 *There was once a king in India who was a big chess enthusiast and had the habit of challenging wise visitors to a game of chess. One day a traveling sage was challenged by the king. The sage having played this game all his life all the time with people all over the world gladly accepted the Kings challenge. 
+
+![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_12.jpg?raw=true)
 
 ![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_2.jpg?raw=true)
 
