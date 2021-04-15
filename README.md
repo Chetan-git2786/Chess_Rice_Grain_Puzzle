@@ -27,3 +27,6 @@ The king accepted the sage’s request. Having lost the game and being a man of 
 ![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_10.jpg?raw=true)
 
 To have a Glimpse of the Code, Please click [here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/Chess_Rice_Grain_Puzzle.ipynb)
+
+![enter image description here](https://github.com/Chetan-git2786/Chess_Rice_Grain_Puzzle/blob/main/rice-grains-chess_1.jpg?raw=true)
+
